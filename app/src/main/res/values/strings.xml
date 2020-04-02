@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">Jeff Scott Resume</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skill_summary">Innovative Information Technology Instructor\
+		/Programmer with over 30 years of experience</string>
+    <string name="project_screen_shot">Project Screenshot</string>
+    <string name="project_description">project_description</string>
+    <string name="employment_description">Employment Description</string>
+    <string name="job_description">The process of writing a job description requires\
+        /having a clear understanding of the jobs duties and responsibilities.  The job\
+        /posting should also include a concise picture of the skills required for the\
+        /position to attract qualified job candidates.</string>
+    <string name="text_view_title">Title</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="dialog_title">Title</string>
+    <string name="profile_name">Jeff Scott</string>
+    <string name="job_title">Information Technology Instructor</string>
+    <string name="app_title">My Resume</string>
+    <string name="title_skill_summary">Skill Summary</string>
+    <string name="title_skill_highlights">Skill Highlishts</string>
+    <string name="title_activity_new_drawer">Nav Drawer Activity</string>
 </resources>
