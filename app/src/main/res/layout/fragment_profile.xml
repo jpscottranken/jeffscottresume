@@ -73,11 +73,11 @@
                 android:orientation="horizontal" >
 
                 <de.hdodenhof.circleimageview.CircleImageVIew
-                    android:id="@+id/javascript_icon"
+                    android:id="@+id/javascript_logo"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_margin="8dp"
-                    android:src="@drawable/javascript_icon"
+                    android:src="@drawable/javascript_logo"
                     android:layout_weight="0" />
 
                 <TextView
@@ -110,11 +110,11 @@
                 android:orientation="horizontal" >
 
                 <de.hdodenhof.circleimageview.CircleImageVIew
-                    android:id="@+id/csharp_icon"
+                    android:id="@+id/csharp_logo"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_margin="8dp"
-                    android:src="@drawable/csharp_icon"
+                    android:src="@drawable/csharp_logo"
                     android:layout_weight="0" />
 
                 <TextView
@@ -147,11 +147,11 @@
                 android:orientation="horizontal" >
 
                 <de.hdodenhof.circleimageview.CircleImageVIew
-                    android:id="@+id/sql_icon"
+                    android:id="@+id/sql_logo"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_margin="8dp"
-                    android:src="@drawable/sql_icon"
+                    android:src="@drawable/sql_logo"
                     android:layout_weight="0" />
 
                 <TextView
@@ -184,11 +184,11 @@
                 android:orientation="horizontal" >
 
                 <de.hdodenhof.circleimageview.CircleImageVIew
-                    android:id="@+id/android_icon"
+                    android:id="@+id/android_logo"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_margin="8dp"
-                    android:src="@drawable/android_icon"
+                    android:src="@drawable/android_logo"
                     android:layout_weight="0" />
 
                 <TextView

@@ -18,7 +18,7 @@
             android:id="@+id/image_view_project_main_image"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:content_description="@string/project_description"
+            android:contentDescription="@string/project_description"
             android:scaleType="centerCrop" />
 
         <TextView
